@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greyhairredbear&label=Profile%20views&color=0e75b6&style=flat" alt="greyhairredbear" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greyhairredbear" alt="greyhairredbear" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greyhairredbear&row=1" alt="greyhairredbear" /></a> </p>
 
 - In my spare time, I’m currently working on [dassert, a dart library for fluent assertions](https://github.com/greyhairredbear/dassert)
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/greyhairredbear](https://github.com/greyhairredbear)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Also find me at:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/4929939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4929939" height="30" width="40" /></a>
 </p>
