@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, my name is Peter Laggner</h1>
-<h3 align="center">I'm a Software Engineer based in Graz, Austria, working @ BYTEPOETS</h3>
+<h3 align="center">I'm a Software Engineer based in Graz, Austria, working at BYTEPOETS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greyhairredbear&label=Profile%20views&color=0e75b6&style=flat" alt="greyhairredbear" /> </p>
 
