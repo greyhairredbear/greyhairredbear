@@ -7,7 +7,7 @@
 
 - In my spare time, I’m currently working on [dassert, a dart library for fluent assertions](https://github.com/greyhairredbear/dassert)
 
-- I’m currently trying to learn as much as I can about **Functional Programming, Test Driven Development, Domain Modeling, Kotlin**
+- I’m currently trying to learn as much as I can about **functional programming, TDD, Domain Modeling**, the **Kotlin** programming language and its ecosystem
 
 - 👨‍💻 All of my projects are available at [https://github.com/greyhairredbear](https://github.com/greyhairredbear)
 
