@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greyhairredbear&label=Profile%20views&color=0e75b6&style=flat" alt="greyhairredbear" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greyhairredbear&row=1" alt="greyhairredbear" /></a> </p>
-
 - In my spare time, I’m currently working on [dassert, a dart library for fluent assertions](https://github.com/greyhairredbear/dassert)
 
 - I enjoy learning new stuff a great deal. Currently, I'm especially interested in **functional programming, TDD, Domain Modeling** and the **Kotlin** programming language and its ecosystem. 
@@ -16,9 +14,12 @@
 <a href="https://stackoverflow.com/users/4929939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4929939" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Stats</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greyhairredbear&show_icons=true&locale=en&layout=compact" alt="greyhairredbear" /></p>
+
+<h3 align="left">Trophies</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greyhairredbear&row=1" alt="greyhairredbear" /></a> </p>
+
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 <p>I <b>love</b> using JetBrains tools, <a href="https://ohmyz.sh">oh-my-zsh</a> and <a href="https://github.com/jesseduffield/lazygit">lazygit</a>.</p>
-
-<h3 align="left">Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greyhairredbear&show_icons=true&locale=en&layout=compact" alt="greyhairredbear" /></p>
