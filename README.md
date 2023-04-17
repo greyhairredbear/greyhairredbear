@@ -8,7 +8,7 @@
 
 - I enjoy learning new stuff a great deal. Currently, I'm especially interested in **functional programming, TDD, Domain Modeling** and the **Kotlin** programming language and its ecosystem. 
 
-- 👨‍💻 All of my projects are available at [https://github.com/greyhairredbear](https://github.com/greyhairredbear)
+- 👨‍💻 All of my personal side-projects are available at [https://github.com/greyhairredbear](https://github.com/greyhairredbear)
 
 ## Also find me at
 <a href="https://stackoverflow.com/users/4929939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4929939" height="30" width="40" /></a>
