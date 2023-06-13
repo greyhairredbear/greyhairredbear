@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=greyhairredbear&label=Profile%20views&color=0e75b6&style=flat" alt="greyhairredbear" /> </p>
+[![img](https://komarev.com/ghpvc/?username=greyhairredbear&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=greyhairredbear&label=Profile%20views&color=0e75b6&style=flat)
+[![greyhairredbear StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/4929939)](https://stackoverflow.com/users/4929939/greyhairredbear)
 
 # Hello there, my name is Peter Laggner
 
@@ -10,14 +11,11 @@
 
 - 👨‍💻 All of my personal side-projects are available at [https://github.com/greyhairredbear](https://github.com/greyhairredbear)
 
-## Also find me at
-<a href="https://stackoverflow.com/users/4929939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4929939" height="30" width="40" /></a>
-
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=greyhairredbear&show_icons=true&locale=en&layout=compact" alt="greyhairredbear" />
 
 ## Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=greyhairredbear&row=1" alt="greyhairredbear" />
+<img src="https://github-profile-trophy.vercel.app/?username=greyhairredbear&row=1&margin-w=10" alt="greyhairredbear" />
 
 ## Languages and Tools
 <p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
