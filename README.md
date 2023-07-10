@@ -3,7 +3,7 @@
 
 # Hello there, my name is Peter Laggner
 
-- I'm a Software Engineer based in Graz, Austria, working at BYTEPOETS
+- I'm a Software Engineer based in Graz, Austria, working remotely at Cargonexx GmbH
 
 - In my spare time, I’m currently working on [dassert, a dart library for fluent assertions](https://github.com/greyhairredbear/dassert)
 
