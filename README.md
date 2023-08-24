@@ -11,9 +11,6 @@
 
 - 👨‍💻 All of my personal side-projects are available at [https://github.com/greyhairredbear](https://github.com/greyhairredbear)
 
-## Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=greyhairredbear&show_icons=true&locale=en&layout=compact" alt="greyhairredbear" />
-
 ## Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=greyhairredbear&row=1&margin-w=10" alt="greyhairredbear" />
 
