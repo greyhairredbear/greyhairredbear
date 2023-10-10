@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my personal side-projects are available at [https://github.com/greyhairredbear](https://github.com/greyhairredbear)
 
+- In case you want to reach out to me, simply [start a discussion here](https://github.com/greyhairredbear/greyhairredbear/discussions).
+
 ## Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=greyhairredbear&row=1&margin-w=10" alt="greyhairredbear" />
 
