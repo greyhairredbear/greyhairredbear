@@ -4,7 +4,7 @@
 # Hello there, my name is Peter Laggner
 
 - I'm a Software Engineer based in Graz, Austria, working remotely at [Cargonexx GmbH](https://www.cargonexx.com)
-  - I spend most of my workday advancing our software for optimizing a Vehicle Routing Problem with pickups, deliveries and time windows
+  - I spend most of my workday advancing our software for optimizing a **Vehicle Routing Problem** with pickups, deliveries and time windows
 
 - In my spare time, I ...
   - ... spend time with my family 👨‍👩‍👦‍👦👶
