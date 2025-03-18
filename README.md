@@ -1,5 +1,4 @@
 [![img](https://komarev.com/ghpvc/?username=greyhairredbear&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=greyhairredbear&label=Profile%20views&color=0e75b6&style=flat)
-[![greyhairredbear StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/4929939)](https://stackoverflow.com/users/4929939/greyhairredbear)
 
 # Hello there, my name is Peter Laggner
 
@@ -23,9 +22,6 @@
 
 - In case you want to reach out to me, simply [start a discussion here](https://github.com/greyhairredbear/greyhairredbear/discussions/new?category=general).
 
-## Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=greyhairredbear&row=8&margin-w=10" alt="greyhairredbear" />
-
 ## Some stuff that I've recently worked with
 <p align="left"> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a> 
@@ -43,3 +39,11 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
 <p>I <b>love</b> using JetBrains tools, <a href="https://ohmyz.sh">oh-my-zsh</a> and <a href="https://github.com/jesseduffield/lazygit">lazygit</a>.</p>
+
+## Also find me on
+
+- [stack overflow](https://stackoverflow.com/users/4929939/greyhairredbear)
+- [LinkedIn](https://linkedin.com/in/peter-laggner-a6225726a)
+
+## Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=greyhairredbear&row=8&margin-w=10" alt="greyhairredbear" />
