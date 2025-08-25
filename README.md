@@ -45,5 +45,3 @@
 - [stack overflow](https://stackoverflow.com/users/4929939/greyhairredbear)
 - [LinkedIn](https://linkedin.com/in/peter-laggner-a6225726a)
 
-## Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=greyhairredbear&row=8&margin-w=10" alt="greyhairredbear" />
