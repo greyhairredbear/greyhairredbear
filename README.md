@@ -8,7 +8,7 @@
 - In my spare time, I ...
   - ... spend time with my family 👨‍👩‍👦‍👦👶
   - ... like to play a game of basketball ⛹️🏀
-  - ... try to improve my everyday life by contributing to tools like [TimeFold](https://github.com/TimefoldAI/timefold-solver/), [ktfmt](https://github.com/facebook/ktfmt) or [Optaplanner](https://github.com/apache/incubator-kie-optaplanner)
+  - ... try to improve my everyday life by contributing to tools like [TimeFold](https://github.com/TimefoldAI/timefold-solver/) or [ktfmt](https://github.com/facebook/ktfmt)
   - ... work on releasing [dassert, a dart library for fluent assertions](https://github.com/greyhairredbear/dassert)
 
 - I enjoy learning new stuff a great deal. Some of the topics I'm currently interested in:
