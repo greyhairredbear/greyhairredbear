@@ -38,6 +38,6 @@
 
 ## Also find me on
 
-- [stack overflow](https://stackoverflow.com/users/4929939/greyhairredbear)
+- [stack overflow](https://stackoverflow.com/users/2394290/greyhairredbear)
 - [LinkedIn](https://linkedin.com/in/peter-laggner-a6225726a)
 
