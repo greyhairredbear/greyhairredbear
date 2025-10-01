@@ -2,13 +2,12 @@
 
 # Hello there, my name is Peter Laggner
 
-- I'm a Software Engineer based in Graz, Austria, working remotely at [Cargonexx GmbH](https://www.cargonexx.com)
-  - I spend most of my workday advancing our software for optimizing a **Vehicle Routing Problem** with pickups, deliveries and time windows
+- I'm a Software Engineer based in Graz, Austria, working remotely as a [Planning Models](https://timefold.ai/model) Engineer at [Timefold](https://timefold.ai)  
 
 - In my spare time, I ...
   - ... spend time with my family 👨‍👩‍👦‍👦👶
   - ... like to play a game of basketball ⛹️🏀
-  - ... try to improve my everyday life by contributing to tools like [TimeFold](https://github.com/TimefoldAI/timefold-solver/) or [ktfmt](https://github.com/facebook/ktfmt)
+  - ... contribute to open source software like [TimeFold](https://github.com/TimefoldAI/timefold-solver/) or [ktfmt](https://github.com/facebook/ktfmt)
   - ... work on releasing [dassert, a dart library for fluent assertions](https://github.com/greyhairredbear/dassert)
 
 - I enjoy learning new stuff a great deal. Some of the topics I'm currently interested in:
