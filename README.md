@@ -7,7 +7,7 @@
 - In my spare time, I ...
   - ... spend time with my family 👨‍👩‍👦‍👦👶
   - ... like to play a game of basketball ⛹️🏀
-  - ... contribute to open source software like [TimeFold](https://github.com/TimefoldAI/timefold-solver/) or [ktfmt](https://github.com/facebook/ktfmt)
+  - ... contribute to open source software like [Timefold](https://github.com/TimefoldAI/timefold-solver/) or [ktfmt](https://github.com/facebook/ktfmt)
   - ... work on releasing [dassert, a dart library for fluent assertions](https://github.com/greyhairredbear/dassert)
 
 - I enjoy learning new stuff a great deal. Some of the topics I'm currently interested in:
