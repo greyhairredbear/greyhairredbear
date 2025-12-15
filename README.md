@@ -12,7 +12,7 @@
 
 - I enjoy learning new stuff a great deal. Some of the topics I'm currently interested in:
   - Evolvement of the **Kotlin** programming language and its ecosystem
-  - **Optimization** with Timefold/Optaplanner
+  - **Optimization**, especially with the Timefold solver
   - **Functional programming**
   - **TDD**
   - **Domain Modeling** 
